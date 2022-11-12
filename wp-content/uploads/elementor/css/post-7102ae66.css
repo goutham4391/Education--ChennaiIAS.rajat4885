@@ -1,0 +1,29 @@
+.elementor-7102 .elementor-element.elementor-element-ce0ff7d{text-align:center;--ep-advanced-heading-pos-x:0px;--ep-advanced-heading-pos-y:0px;--ep-advanced-heading-rotate:0deg;}.elementor-7102 .elementor-element.elementor-element-ce0ff7d .bdt-advanced-heading .bdt-sub-heading{color:#000000;font-family:"Sansation", Roboto, sans-serif;font-size:19px;font-weight:900;}.elementor-7102 .elementor-element.elementor-element-ce0ff7d .bdt-advanced-heading .bdt-main-heading .bdt-main-heading-inner{color:#3C3F76;-webkit-text-stroke-color:#3C3F76;font-family:"Sansation", Roboto, sans-serif;font-size:30px;font-weight:600;text-transform:capitalize;font-style:normal;}.elementor-7102 .elementor-element.elementor-element-ce0ff7d .bdt-advanced-heading .bdt-main-heading .line:after{background-color:#F83B3B;width:69px;height:4px;}.elementor-7102 .elementor-element.elementor-element-ce0ff7d .bdt-advanced-heading .bdt-main-heading .bdt-button-icon-align-right{margin-left:8px;}.elementor-7102 .elementor-element.elementor-element-ce0ff7d .bdt-advanced-heading .bdt-main-heading .bdt-button-icon-align-left{margin-right:8px;}.elementor-7102 .elementor-element.elementor-element-ce0ff7d .bdt-advanced-heading .bdt-main-heading .bdt-button-icon-align-bottom{margin-top:8px;}.elementor-7102 .elementor-element.elementor-element-7e0c52e .widget-inner > :not(.active) .aux-toggle-header{cursor:pointer;}.elementor-7102 .elementor-element.elementor-element-7e0c52e .aux-toggle-header{color:#000000 !important;font-family:"Sansation", Roboto, sans-serif;font-weight:bold;}.elementor-7102 .elementor-element.elementor-element-7e0c52e .active .aux-toggle-header{color:#003CBC !important;}.elementor-7102 .elementor-element.elementor-element-7e0c52e .aux-toggle-content{color:#000000;font-family:"Sansation", Roboto, sans-serif;}@media(max-width:1024px){.elementor-7102 .elementor-element.elementor-element-ce0ff7d{--ep-advanced-heading-pos-x:0px;--ep-advanced-heading-pos-y:0px;--ep-advanced-heading-rotate:0deg;}}@media(max-width:767px){.elementor-7102 .elementor-element.elementor-element-ce0ff7d{--ep-advanced-heading-pos-x:0px;--ep-advanced-heading-pos-y:0px;--ep-advanced-heading-rotate:0deg;}.elementor-7102 .elementor-element.elementor-element-ce0ff7d .bdt-advanced-heading .bdt-main-heading .bdt-main-heading-inner{font-size:25px;}.elementor-7102 .elementor-element.elementor-element-7e0c52e .aux-toggle-header{font-size:15px;}.elementor-7102 .elementor-element.elementor-element-7e0c52e .aux-toggle-content{font-size:15px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Sansation';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../../../drive/2020/03/sansation.regular.html') format('truetype');
+}
+@font-face {
+	font-family: 'Sansation';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('../../../../drive/2020/03/sansation.bold_.html') format('truetype');
+}
+@font-face {
+	font-family: 'Sansation';
+	font-style: italic;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../../../drive/2020/03/sansation.italic.html') format('truetype');
+}
+@font-face {
+	font-family: 'Sansation';
+	font-style: italic;
+	font-weight: bold;
+	font-display: auto;
+	src: url('../../../../drive/2020/03/sansation.bold-italic.html') format('truetype');
+}
+/* End Custom Fonts CSS */

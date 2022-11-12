@@ -1,0 +1,29 @@
+.elementor-13 .elementor-element.elementor-element-92805c0{text-align:center;--ep-advanced-heading-pos-x:0px;--ep-advanced-heading-pos-y:0px;--ep-advanced-heading-rotate:0deg;}.elementor-13 .elementor-element.elementor-element-92805c0 .bdt-advanced-heading .bdt-sub-heading{color:#000000;font-family:"Sansation", Roboto, sans-serif;font-size:19px;font-weight:900;}.elementor-13 .elementor-element.elementor-element-92805c0 .bdt-advanced-heading .bdt-main-heading .bdt-main-heading-inner{color:#3C3F76;-webkit-text-stroke-color:#3C3F76;font-family:"Sansation", Roboto, sans-serif;font-size:30px;font-weight:600;text-transform:capitalize;font-style:normal;}.elementor-13 .elementor-element.elementor-element-92805c0 .bdt-advanced-heading .bdt-main-heading .line:after{background-color:#F83B3B;width:69px;height:4px;}.elementor-13 .elementor-element.elementor-element-92805c0 .bdt-advanced-heading .bdt-main-heading .bdt-button-icon-align-right{margin-left:8px;}.elementor-13 .elementor-element.elementor-element-92805c0 .bdt-advanced-heading .bdt-main-heading .bdt-button-icon-align-left{margin-right:8px;}.elementor-13 .elementor-element.elementor-element-92805c0 .bdt-advanced-heading .bdt-main-heading .bdt-button-icon-align-bottom{margin-top:8px;}.elementor-13 .elementor-element.elementor-element-eb228e8{text-align:justify;color:#000000;font-family:"Sansation", Roboto, sans-serif;font-size:17px;}@media(max-width:1024px){.elementor-13 .elementor-element.elementor-element-92805c0{--ep-advanced-heading-pos-x:0px;--ep-advanced-heading-pos-y:0px;--ep-advanced-heading-rotate:0deg;}}@media(max-width:767px){.elementor-13 .elementor-element.elementor-element-92805c0{--ep-advanced-heading-pos-x:0px;--ep-advanced-heading-pos-y:0px;--ep-advanced-heading-rotate:0deg;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Sansation';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../../../drive/2020/03/sansation.regular.html') format('truetype');
+}
+@font-face {
+	font-family: 'Sansation';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('../../../../drive/2020/03/sansation.bold_.html') format('truetype');
+}
+@font-face {
+	font-family: 'Sansation';
+	font-style: italic;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../../../drive/2020/03/sansation.italic.html') format('truetype');
+}
+@font-face {
+	font-family: 'Sansation';
+	font-style: italic;
+	font-weight: bold;
+	font-display: auto;
+	src: url('../../../../drive/2020/03/sansation.bold-italic.html') format('truetype');
+}
+/* End Custom Fonts CSS */

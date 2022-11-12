@@ -1,0 +1,29 @@
+.elementor-29 .elementor-element.elementor-element-8faad94{text-align:center;--ep-advanced-heading-pos-x:0px;--ep-advanced-heading-pos-y:0px;--ep-advanced-heading-rotate:0deg;}.elementor-29 .elementor-element.elementor-element-8faad94 .bdt-advanced-heading .bdt-sub-heading{color:#000000;font-family:"Sansation", Roboto, sans-serif;font-size:19px;font-weight:900;}.elementor-29 .elementor-element.elementor-element-8faad94 .bdt-advanced-heading .bdt-main-heading .bdt-main-heading-inner{color:#3C3F76;-webkit-text-stroke-color:#3C3F76;font-family:"Sansation", Roboto, sans-serif;font-size:30px;font-weight:600;text-transform:capitalize;font-style:normal;}.elementor-29 .elementor-element.elementor-element-8faad94 .bdt-advanced-heading .bdt-main-heading .line:after{background-color:#F83B3B;width:69px;height:4px;}.elementor-29 .elementor-element.elementor-element-8faad94 .bdt-advanced-heading .bdt-main-heading .bdt-button-icon-align-right{margin-left:8px;}.elementor-29 .elementor-element.elementor-element-8faad94 .bdt-advanced-heading .bdt-main-heading .bdt-button-icon-align-left{margin-right:8px;}.elementor-29 .elementor-element.elementor-element-8faad94 .bdt-advanced-heading .bdt-main-heading .bdt-button-icon-align-bottom{margin-top:8px;}.elementor-29 .elementor-element.elementor-element-46bff02{text-align:justify;color:#000000;font-family:"Sansation", Roboto, sans-serif;font-size:17px;}.elementor-29 .elementor-element.elementor-element-4b1df6a{text-align:center;--ep-advanced-heading-pos-x:0px;--ep-advanced-heading-pos-y:0px;--ep-advanced-heading-rotate:0deg;}.elementor-29 .elementor-element.elementor-element-4b1df6a .bdt-advanced-heading-content{text-align:center;}.elementor-29 .elementor-element.elementor-element-4b1df6a .bdt-advanced-heading .bdt-main-heading .bdt-main-heading-inner{color:#3C3F76;-webkit-text-stroke-color:#3C3F76;font-family:"Sansation", Roboto, sans-serif;font-size:22px;font-weight:600;text-transform:capitalize;font-style:normal;text-decoration:underline;}.elementor-29 .elementor-element.elementor-element-ac3d23c{text-align:justify;color:#000000;font-family:"Sansation", Roboto, sans-serif;font-size:17px;}.elementor-29 .elementor-element.elementor-element-ac3d23c > .elementor-widget-container{margin:-15px 0px 0px 0px;}.elementor-29 .elementor-element.elementor-element-a2fd9b4{text-align:center;--ep-advanced-heading-pos-x:0px;--ep-advanced-heading-pos-y:0px;--ep-advanced-heading-rotate:0deg;}.elementor-29 .elementor-element.elementor-element-a2fd9b4 .bdt-advanced-heading-content{text-align:center;}.elementor-29 .elementor-element.elementor-element-a2fd9b4 .bdt-advanced-heading .bdt-main-heading .bdt-main-heading-inner{color:#3C3F76;-webkit-text-stroke-color:#3C3F76;font-family:"Sansation", Roboto, sans-serif;font-size:22px;font-weight:600;text-transform:capitalize;font-style:normal;text-decoration:underline;}.elementor-29 .elementor-element.elementor-element-1ecf918{text-align:justify;color:#000000;font-family:"Sansation", Roboto, sans-serif;font-size:17px;}.elementor-29 .elementor-element.elementor-element-1ecf918 > .elementor-widget-container{margin:-15px 0px 0px 0px;}@media(max-width:1024px){.elementor-29 .elementor-element.elementor-element-8faad94{--ep-advanced-heading-pos-x:0px;--ep-advanced-heading-pos-y:0px;--ep-advanced-heading-rotate:0deg;}.elementor-29 .elementor-element.elementor-element-4b1df6a{--ep-advanced-heading-pos-x:0px;--ep-advanced-heading-pos-y:0px;--ep-advanced-heading-rotate:0deg;}.elementor-29 .elementor-element.elementor-element-a2fd9b4{--ep-advanced-heading-pos-x:0px;--ep-advanced-heading-pos-y:0px;--ep-advanced-heading-rotate:0deg;}}@media(max-width:767px){.elementor-29 .elementor-element.elementor-element-8faad94{--ep-advanced-heading-pos-x:0px;--ep-advanced-heading-pos-y:0px;--ep-advanced-heading-rotate:0deg;}.elementor-29 .elementor-element.elementor-element-4b1df6a{--ep-advanced-heading-pos-x:0px;--ep-advanced-heading-pos-y:0px;--ep-advanced-heading-rotate:0deg;}.elementor-29 .elementor-element.elementor-element-a2fd9b4{--ep-advanced-heading-pos-x:0px;--ep-advanced-heading-pos-y:0px;--ep-advanced-heading-rotate:0deg;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Sansation';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../../../drive/2020/03/sansation.regular.html') format('truetype');
+}
+@font-face {
+	font-family: 'Sansation';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('../../../../drive/2020/03/sansation.bold_.html') format('truetype');
+}
+@font-face {
+	font-family: 'Sansation';
+	font-style: italic;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../../../drive/2020/03/sansation.italic.html') format('truetype');
+}
+@font-face {
+	font-family: 'Sansation';
+	font-style: italic;
+	font-weight: bold;
+	font-display: auto;
+	src: url('../../../../drive/2020/03/sansation.bold-italic.html') format('truetype');
+}
+/* End Custom Fonts CSS */

@@ -1,0 +1,29 @@
+.elementor-12667 .elementor-element.elementor-element-e3db611{text-align:center;}.elementor-12667 .elementor-element.elementor-element-e3db611 .elementor-heading-title{font-family:"Sansation", Roboto, sans-serif;font-size:25px;font-weight:700;text-decoration:underline;}.elementor-12667 .elementor-element.elementor-element-e2db0bd{text-align:justify;color:#000000;font-family:"Sansation", Roboto, sans-serif;font-size:16px;}.elementor-12667 .elementor-element.elementor-element-11c02c2 .elementor-active .elementor-accordion-icon, .elementor-12667 .elementor-element.elementor-element-11c02c2 .elementor-active .elementor-accordion-title{color:#002CA2;}.elementor-12667 .elementor-element.elementor-element-11c02c2 .elementor-active .elementor-accordion-icon svg{fill:#002CA2;}.elementor-12667 .elementor-element.elementor-element-11c02c2 .elementor-tab-content{color:#000000;font-family:"Sansation", Roboto, sans-serif;font-size:15px;}@media(max-width:767px){.elementor-12667 .elementor-element.elementor-element-e3db611 .elementor-heading-title{font-size:18px;line-height:1.4em;}.elementor-12667 .elementor-element.elementor-element-e2db0bd{font-size:15px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Sansation';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../../../drive/2020/03/sansation.regular.html') format('truetype');
+}
+@font-face {
+	font-family: 'Sansation';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('../../../../drive/2020/03/sansation.bold_.html') format('truetype');
+}
+@font-face {
+	font-family: 'Sansation';
+	font-style: italic;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../../../drive/2020/03/sansation.italic.html') format('truetype');
+}
+@font-face {
+	font-family: 'Sansation';
+	font-style: italic;
+	font-weight: bold;
+	font-display: auto;
+	src: url('../../../../drive/2020/03/sansation.bold-italic.html') format('truetype');
+}
+/* End Custom Fonts CSS */

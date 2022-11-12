@@ -1,0 +1,29 @@
+.elementor-5031 .elementor-element.elementor-element-304a4dd{text-align:center;}.elementor-5031 .elementor-element.elementor-element-304a4dd .bdt-advanced-heading .bdt-sub-heading{color:#000000;font-family:"Sansation", Roboto, sans-serif;font-size:19px;font-weight:900;}.elementor-5031 .elementor-element.elementor-element-304a4dd .bdt-advanced-heading .bdt-main-heading .bdt-main-heading-inner{color:#3C3F76;-webkit-text-stroke-color:#3C3F76;font-family:"Sansation", Roboto, sans-serif;font-size:30px;font-weight:600;text-transform:capitalize;font-style:normal;}.elementor-5031 .elementor-element.elementor-element-304a4dd .bdt-main-heading .bdt-main-heading-inner{margin-right:10px;}.elementor-5031 .elementor-element.elementor-element-304a4dd .bdt-advanced-heading .bdt-main-heading .line:after{background-color:#F83B3B;width:69px;height:4px;}.elementor-5031 .elementor-element.elementor-element-304a4dd .bdt-advanced-heading .bdt-main-heading .bdt-button-icon-align-right{margin-left:8px;}.elementor-5031 .elementor-element.elementor-element-304a4dd .bdt-advanced-heading .bdt-main-heading .bdt-button-icon-align-left{margin-right:8px;}.elementor-5031 .elementor-element.elementor-element-304a4dd .bdt-advanced-heading .bdt-main-heading .bdt-button-icon-align-bottom{margin-top:8px;}.elementor-5031 .elementor-element.elementor-element-71bb9f8{text-align:justify;color:#000000;font-family:"Sansation", Roboto, sans-serif;font-size:17px;}@media(max-width:767px){.elementor-5031 .elementor-element.elementor-element-304a4dd{text-align:center;}.elementor-5031 .elementor-element.elementor-element-304a4dd .bdt-advanced-heading .bdt-sub-heading{line-height:0.1em;}.elementor-5031 .elementor-element.elementor-element-304a4dd .bdt-advanced-heading .bdt-main-heading .bdt-main-heading-inner{border-radius:0px 0px 0px 0px;overflow:hidden;padding:0px 0px 0px 0px;font-size:18px;line-height:1em;letter-spacing:0px;}.elementor-5031 .elementor-element.elementor-element-304a4dd .bdt-main-heading .bdt-main-heading-inner{margin-right:0px;}.elementor-5031 .elementor-element.elementor-element-304a4dd .bdt-advanced-heading .bdt-main-heading .line:after{width:23px;height:3px;}.elementor-5031 .elementor-element.elementor-element-304a4dd .bdt-advanced-heading .bdt-main-heading .bdt-button-icon-align-right{margin-left:6px;}.elementor-5031 .elementor-element.elementor-element-304a4dd .bdt-advanced-heading .bdt-main-heading .bdt-button-icon-align-left{margin-right:6px;}.elementor-5031 .elementor-element.elementor-element-304a4dd .bdt-advanced-heading .bdt-main-heading .bdt-button-icon-align-bottom{margin-top:6px;}.elementor-5031 .elementor-element.elementor-element-304a4dd > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-5031 .elementor-element.elementor-element-71bb9f8{text-align:center;font-size:16px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Sansation';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../../../drive/2020/03/sansation.regular.html') format('truetype');
+}
+@font-face {
+	font-family: 'Sansation';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('../../../../drive/2020/03/sansation.bold_.html') format('truetype');
+}
+@font-face {
+	font-family: 'Sansation';
+	font-style: italic;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../../../drive/2020/03/sansation.italic.html') format('truetype');
+}
+@font-face {
+	font-family: 'Sansation';
+	font-style: italic;
+	font-weight: bold;
+	font-display: auto;
+	src: url('../../../../drive/2020/03/sansation.bold-italic.html') format('truetype');
+}
+/* End Custom Fonts CSS */
